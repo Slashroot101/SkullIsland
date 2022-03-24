@@ -19,7 +19,9 @@ All fossil related transactions will go through Fossil Bot, which automates the 
 | /vault      | blah      | Vaults your current dinosaur allowing for later use. |
 | /vaulted      | blah      | Returns a list of your vaulted dinosaurs. |
 
+# Donation Process
 
+Insert info here.
 
 # Pricing
 |Non-Apex Carnivore|Non-Apex Herbivore|Miscellanious|
