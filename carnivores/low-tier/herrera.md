@@ -1,7 +1,7 @@
 ## Herrerasaurus Ischigualastensis - Herrera's Lizard from the ischigualasto Formation" AKA |Herrera|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315531029741589/943729257786527764/herrera.png)
+![alttext](https://cdn.discordapp.com/attachments/938315531029741589/966815699672637510/herrera.png)
 
 # ~ Over-View ~
 ### The Herrerasaurus was a swift runner, and was found roaming the planet in the a late triassic period. They weight around 500kg, and were about 20 feet long. In The Isle the herrera is the fastest dinosaur in the game, and because of its smaller size, easy to hide away from preditors. It takes around 1.4 hours to grow a herrera from hatchling to full adult. 

@@ -1,7 +1,7 @@
 ## Austroraptor Cabzi - "Cabaza's Southern Theif" AKA |Austro|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315531029741589/943723965661200455/stro.png)
+![alttext](https://cdn.discordapp.com/attachments/938315531029741589/966815348852682782/stro.png)
 
 # ~ Over-View ~
 ### The Austroraptor was a swift and stealthy hunter. While small and not very strong, thier small size and quick speed made them good pack hunters. They were around 250kg and 16.4 feet in lenght. In The Isle the austro is a pretty fast feathered dinosaur that takes around 2 hours to grow from hatchling to full adult.  
