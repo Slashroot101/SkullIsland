@@ -1,6 +1,6 @@
 ## Tryannosaurus Rex - "Tyrant Lizard King" AKA |Rex|
 
-![alttext](https://cdn.discordapp.com/attachments/938315634645803068/948669311977947197/rex_pic.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/rex%20pic.png?raw=true)
 
 # ~Over-View ~
 ### The Tryannosaurus was a large theropod from the cretaceous period. A rex weight around 5,800 and was around 43 feet long. In The Isle the rex is a Apex carnivore that take around 6.3 hours to grow from hatchling to full adult. Rexs have the highest damage output of any dinosaur, as well as the quickest health regeneration. 

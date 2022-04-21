@@ -1,6 +1,6 @@
 ## Spinosaurus Aegyptiacus - "Egyptian Spine Lizard" AKA   | spino |
 
-![alt text](https://cdn.discordapp.com/attachments/938315634645803068/949458722562900039/spinooo.png)
+![alt text](https://github.com/Slashroot101/SkullIsland/blob/main/images/spinooo.png?raw=true)
 
 # ~ Over-View ~
 #### The Spinosaurus was a large dinosaur the roamed the earth in the time Mid-Late cretaceous period. A spinosaurus weight about 9071kg, and was about 52 feet long. In The Isle, Spinosaurus is a Apex carnivore that takes about 6 hours to grow from hatchling to full adult. Spinos have the highest health and weight of any carnivore, and also ahve the best bleed heal. 

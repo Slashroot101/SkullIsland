@@ -1,7 +1,7 @@
 ## Ceratosaurus Dentisulcatus - "Nasal horned lizard" AKA |Cerato|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315595504574495/946138859350151218/Cerato_pic.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/Cerato%20pic.png?raw=true)
 
 # ~ Over-View ~
 ### The Ceratosaurus was a carnivorous theropod dinosaur that roamed the earth in the late jurassic period. They weight around 1,20lbs and were around 26 feet long. In The Isle the cerato is a very agile hunter, very fast and has the best turn radius. It takes around 2.5 hours to grow from hatchling to full adult.

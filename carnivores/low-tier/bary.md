@@ -1,7 +1,7 @@
 ## Baryonyx Walkeri - "Walker's Heavy Claw" AKA |Bary|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315531029741589/966816343447961650/bary.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/bary.png?raw=true)
 
 # ~ Over-View ~
 ### The Baryonyx was a small/medium sized spinosaurid from the early cretaceous period. In The Isle they are very fast and crouches quickly which makes them easy to esacpe. They weight around 1,450kg, and are 29.5ft  in lenght. They take around 3 hours to grow from hatchling to fresh adult. 

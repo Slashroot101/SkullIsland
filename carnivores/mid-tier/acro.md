@@ -1,7 +1,7 @@
 ## Acrocanthosaurus Atokensis - "High-Spined Lizard from Atoka County" AKA |Acro|
 
 
-![alttext](https://cdn.discordapp.com/attachments/940042716925030421/966137930458480750/acro.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/acro.png?raw=true)
 
 # ~ Over-View ~
 ### The Acrocanthosaurus was a large theropod dinosaur which lived during the early cretaceous. They weight around 4,790kgs, and were about 38 feet long. In The Isle this dinosaur is exteramly fast for thier size. It also has the best turn radius for its size. The acro takes about 4 hours to grow from hatchling to full adult. 

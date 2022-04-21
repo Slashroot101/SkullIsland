@@ -1,7 +1,7 @@
 ### Velociraptor Monogolirnsis - "Monogolian swift to thief" AKA |Velo|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315531029741589/966814912640860240/velo.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/velo.png?raw=true)
 
 # ~ Over-View ~
 ### The Velociraptor quite a small dinosaur from the late cretaceous period. In The Isle, the velo is a AI dinosaur that players can play as. It is a Micro-tier carnivore that is very easy to hide, and also pretty fast as far as speed goes. 

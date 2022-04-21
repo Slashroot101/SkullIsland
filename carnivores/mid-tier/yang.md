@@ -1,7 +1,7 @@
 ## Yangchuanosaurus - "Yangchuan Lizard" AKA |Yang|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315595504574495/948642138269311066/yang.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/yang.png?raw=true)
 
 # ~ Over-View ~
 ### The Yangchuanosaurus is a genus of metriacanthosaurid theropod dinosaur. The yang was about 6,600 pounds and was around 35 feet in length. In The Isle this dinosaur can be exclusive to Skull~Island and can be grown by growing a Giga to Sub-Adult ONLY. 

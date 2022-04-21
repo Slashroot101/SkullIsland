@@ -1,7 +1,7 @@
 ## Dilophosaurus Wetherilli -  "Wetherill's two-crested Lizard" AKA |Dilo|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315531029741589/946106495156772874/dilo_pic.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/dilo%20pic.png?raw=true)
 
 # ~ Over-View ~
 ### The Dilophosaurus roamed the earth in the Early Jurassic period. This giant theropod was swift and sly. In The Isle the Dilo has the highest bleed damage, and best night vison, making them exclusivly nocturnal. 

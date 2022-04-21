@@ -1,7 +1,7 @@
  ## Carnotaurus Sastrei - "Satre's Meat-Eating Bull" AKA |Carno| 
 
 
- ![alttext](https://cdn.discordapp.com/attachments/938315595504574495/946115497185918976/Carno_pic.png)
+ ![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/Carno%20pic.png?raw=true)
 
  # ~ Over-View ~
  ### The Carnotaurus was a medium sized carnotaurine abelisaur from the late cretaceous period. These creatuers were very fast, and bulk which made them great for open area, long hunts. In The Isle the carno takes around 1.8 hours to grow from hatchling to full adult. Weighing around 2,170kg, and about 30 feet in length. It is the fastest survival dinosaur with good strength stats. 

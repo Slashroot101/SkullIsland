@@ -1,7 +1,7 @@
 ## Daspletosaurus - "Frightful Lizard" AKA |Pleto|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315595504574495/948639443466747904/thana.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/thana.png?raw=true)
 
 # ~ Over-View ~
 ### The Daspletosaurus was a large carnivor that lived around 74 million years ago during the late cretaceous period. They weight around 8,400 lbs and was around 30 feet long. In The Isle this dinosaur is exclusive to SKull~Island and can be grown by growing a T-Rex to Sub-Adult ONLY. 

@@ -1,7 +1,7 @@
 ## Suchomimus Tenerensis -"Crocodile mimic from Tenere" AKA |Sucho|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315595504574495/946146093668921374/sucho_pic.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/sucho%20pic.png?raw=true)
 
 # ~ Over-View ~
 ### The Suchomimus was a larger spinosaurid dinosuar that roaed the planet in the early cretaceous period. They weight around 3,600kg and was around 36 feet in lenght. In The Isle the sucho is the most powerful Mid-Tier. A fast swimmer and an heavy weight, makes this dinosaur a good fit for stalking around the waterways and catching their prey off gaurd. The sucho takes around 3.9 hours to grow from hatchling to full adult. 

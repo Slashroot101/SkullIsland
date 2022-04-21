@@ -1,7 +1,7 @@
 ## Utahraptor Ostrommaysorum - "Ostrom's Utah Theif" AKA |Utah|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315531029741589/966817429332312075/dilo_pic.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/utah%20prof%20pic.png?raw=true)
 
 # ~ Over-View ~
 ### The Utahraptor is a very popular dinosaur when it comes to media and entertainment. The utah roamed the planet in the North America region of the earth. In The Isle the utah takes around 1.8 hours to grow from hatchling to fresh adult. They have a very good run speed, and very strong in numbers. 

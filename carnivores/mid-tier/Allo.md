@@ -1,7 +1,7 @@
 ## Allosaurus Fargillis - "Different Fragile Lizard" AKA  |Allo|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315595504574495/946123795666718730/allo_prof_pic.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/allo%20prof%20pic%20-%20Copy.png?raw=true)
 
 # ~ Over-View ~ 
 ### The Allosaurus  was a large carnivore that was around during the late jurassic period. In The Isle the Allo takes around 3 hours to grow from hatchling to fresh adult. The allo is the perfect all rounder, with all good stats. With a hiugh hunger time, and good bleed heal it makes a easy dinosaur for someone to learn. 

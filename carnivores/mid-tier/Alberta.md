@@ -1,7 +1,7 @@
 ## Albertosaurus Sarcphagus - "Flesh-Eating alberta Lizard" AKA |Alberta|
 
 
-![alttext](https://cdn.discordapp.com/attachments/938315595504574495/955924793570492476/albert_-_Copy.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/albert%20-%20Copy.png?raw=true)
 
 # ~ Over-View ~
 ### The Albertosaurus roamed the earth in the late cretaceous period. They weight around 3,000kg and were around 30 feet long. In The Isle they have a very strong biteforce, and decent stamina. They take around 2 hours to grow from hatchling to full adult. 

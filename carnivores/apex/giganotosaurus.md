@@ -1,6 +1,6 @@
 ## Giganotasaurus Carolinii - "Carolini's giant-southern lizard" AKA |Giga|
 
-![alttext](https://cdn.discordapp.com/attachments/938315634645803068/949354826037358593/giga_2.png)
+![alttext](https://github.com/Slashroot101/SkullIsland/blob/main/images/giga%202.png?raw=true)
 
 #~ Over-View ~
 #### The Giganotasurus was a giant dinosaur that walked the earth in the late cretaceous period. A giganotasurus weight around 6,450kg and was around 43 feet long. In The Isle the giga has the highest bleed damage of any dinosaur in the game, and the highest stamina of survival apexes. The Giga takes around 6.5 hours to grow from hatchling to full adult. 
