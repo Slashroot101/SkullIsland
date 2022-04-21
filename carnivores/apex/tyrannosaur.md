@@ -1,6 +1,5 @@
 ## Tryannosaurus Rex - "Tyrant Lizard King" AKA |Rex|
 
-
 ![alttext](https://cdn.discordapp.com/attachments/938315634645803068/948669311977947197/rex_pic.png)
 
 # ~Over-View ~

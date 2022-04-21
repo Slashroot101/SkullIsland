@@ -1,6 +1,5 @@
 ## Giganotasaurus Carolinii - "Carolini's giant-southern lizard" AKA |Giga|
 
-
 ![alttext](https://cdn.discordapp.com/attachments/938315634645803068/949354826037358593/giga_2.png)
 
 #~ Over-View ~

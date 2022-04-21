@@ -1,6 +1,5 @@
 ## Spinosaurus Aegyptiacus - "Egyptian Spine Lizard" AKA   | spino |
 
-
 ![alt text](https://cdn.discordapp.com/attachments/938315634645803068/949458722562900039/spinooo.png)
 
 # ~ Over-View ~
